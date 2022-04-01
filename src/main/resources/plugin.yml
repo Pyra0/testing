@@ -1,0 +1,4 @@
+name: Thing
+version: '${project.version}'
+main: com.github.pyra0.thing.Thing
+api-version: 1.18
